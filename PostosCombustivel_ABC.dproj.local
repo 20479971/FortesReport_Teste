@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/19 16:30:07.000.543,=C:\Users\Leandro.Mello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/20 13:07:15.000.850,=C:\Users\Leandro.Mello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/20 16:28:11.000.189,C:\Users\Leandro.Mello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=E:\L.E.M - Tecnologia\Clientes\Fortes Report\uPrincipal.pas</Transaction>
+    <Transaction>2023/04/20 16:28:11.000.189,C:\Users\Leandro.Mello\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=E:\L.E.M - Tecnologia\Clientes\Fortes Report\uPrincipal.dfm</Transaction>
+    <Transaction>2023/04/20 16:28:24.000.172,C:\Users\Leandro.Mello\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=E:\L.E.M - Tecnologia\Clientes\Fortes Report\PostosCombustivel_ABC.dproj</Transaction>
+    <Transaction>2023/04/21 00:39:40.000.873,=E:\L.E.M - Tecnologia\Clientes\Fortes Report\Unit1.pas</Transaction>
+    <Transaction>2023/04/21 10:38:32.000.326,E:\L.E.M - Tecnologia\Clientes\Fortes Report\Unit1.dfm=E:\L.E.M - Tecnologia\Clientes\Fortes Report\uRelatorio.dfm</Transaction>
+    <Transaction>2023/04/21 10:38:32.000.326,E:\L.E.M - Tecnologia\Clientes\Fortes Report\Unit1.pas=E:\L.E.M - Tecnologia\Clientes\Fortes Report\uRelatorio.pas</Transaction>
+  </Transactions>
+</BorlandProject>
